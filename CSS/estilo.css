@@ -1,0 +1,21 @@
+body{
+ background: black;
+ font-family: sans-serif;
+ overflow-x: hidden;
+}
+.video{
+    width: 99%;
+    position: absolute;
+}
+#hora{
+    
+    color: white;
+    float: right;
+    font-size: 5em;
+    position: relative;
+    margin-top: 11em;
+    margin-right: 1em;
+    border: 3px solid white;
+    border-radius: 15px;
+    font-family: 'Roboto';
+}
